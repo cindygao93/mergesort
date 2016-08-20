@@ -3,10 +3,6 @@
  COMP1406/1006 - Fall 2013
  Assignment 9 - Problem 2
 
-Name: Cindy Gao
-Student Number: 100861300
-Date: November 25, 2013
-
  <p>
  A program that given an input of a LinkedListABS object will deep copy all or a portion of the list.
 */
