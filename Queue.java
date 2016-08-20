@@ -3,9 +3,6 @@
  COMP1406/1006 - Fall 2013
  Assignment 9 - Problem 3
 
-Name: Cindy Gao
-Student Number: 100861300
-Date: November 25, 2013
 
  <p>
  A class creates queues and methods which can operate on the queues.
